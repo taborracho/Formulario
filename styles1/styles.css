@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50;
+    border-radius: 2%;
+}
+    
+
+.bg-bmx {
+background-image:url('../img/mujer.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position-y: 5%;
+}

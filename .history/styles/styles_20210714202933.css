@@ -1,0 +1,40 @@
+/*Estilos Genarales*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* Color del titulo */
+.header-color {
+    color: #2168ec;
+}
+
+/* Imagen de fondo */
+.bg-matica {
+    background-image: url('../img/matica.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 40%;
+}
+/* contendedor formulario */
+
+.bg-white {
+    background-color: #fff;
+}
+
+.form-container {
+    padding: 4rem;
+    width: 30%;
+    border-radius: 0.4rem;
+    /*display: flex;
+    justify-content: center;
+    flex-direction: column;*/
+}
+
+/* contenedores de inputs */
+
+
+
+/* estilos de botones */
+
+/*Alineacion Formulario*/

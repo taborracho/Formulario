@@ -1,0 +1,25 @@
+/*Estilos Genarales*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* Color del titulo */
+.header-color {
+    color: #2168ec;
+}
+
+/* Imagen de fondo */
+.bg-matica {
+    background-image: url('../img/matica.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+}
+/* contendedor formulario */
+
+/* contenedores de inputs */
+
+/* estilos de botones */
+
+/*Alineacion Formulario*/
